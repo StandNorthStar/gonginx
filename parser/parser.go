@@ -4,9 +4,10 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-
-	"github.com/tufanbarisyildirim/gonginx"
-	"github.com/tufanbarisyildirim/gonginx/parser/token"
+	"gonginx"
+	"gonginx/parser/token"
+	//"github.com/tufanbarisyildirim/gonginx"
+	//"github.com/tufanbarisyildirim/gonginx/parser/token"
 )
 
 //Parser is an nginx config parser

@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"bytes"
 	"io"
-
-	"github.com/tufanbarisyildirim/gonginx/parser/token"
+	"gonginx/parser/token"
+	//"github.com/tufanbarisyildirim/gonginx/parser/token"
 )
 
 //lexer is the main tokenizer
